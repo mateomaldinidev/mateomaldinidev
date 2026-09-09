@@ -1,26 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=It's%20not%20a%20bug,%20it's%20a%20feature&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mateo%20Maldini%20%7C%20Fullstack%20Dev&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hola!%20Soy%20Mateo%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Dev%20%7C%20Argentina%20%F0%9F%87%A6%F0%9F%87%B7&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
-<h3 align="center">Fullstack Dev | Angular & NestJS | UTN</h3>
 <h4 align="center">Construyendo apps reales, buscando la próxima oportunidad 🚀</h4>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-maldini)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateomaldini.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
 
 </div>
 
+<p align="center">📧 <code>tu-email@ejemplo.com</code> <sub>(clic en el ícono de copiar al pasar el mouse)</sub></p>
+
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=console.log('Hola,+soy+Mateo');&font=Fira+Code&center=true&width=440&height=30&color=8892b0&vCenter=true&size=18">
-  <img src="https://readme-typing-svg.demolab.com/?lines=git+commit+-m+%22sigo+aprendiendo%22;&font=Fira+Code&center=true&width=440&height=30&color=8892b0&vCenter=true&size=18">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Terminando+la+Tecnicatura+en+Programaci%C3%B3n+(UTN);Foco+en+Angular+%2B+NestJS;Abierto+a+nuevos+desaf%C3%ADos;&font=Fira+Code&center=true&width=440&height=30&color=61dafb&vCenter=true&size=16">
+  <img src="https://readme-typing-svg.demolab.com/?lines=console.log(%22en+continuo+aprendizaje%22);&font=Fira+Code&center=true&width=440&height=30&color=8892b0&vCenter=true&size=18">
 </div>
 
 <br>
@@ -42,19 +40,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
-<br>
-
-## 📊 Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mateomaldinidev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateomaldinidev&layout=pie&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateomaldinidev&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
