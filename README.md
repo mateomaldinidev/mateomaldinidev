@@ -13,8 +13,6 @@
 
 </div>
 
-<p align="center">📧 <code>tu-email@ejemplo.com</code> <sub>(clic en el ícono de copiar al pasar el mouse)</sub></p>
-
 <br>
 
 <div align="center">
